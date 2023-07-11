@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<products>
+    <product>
+        <id>1</id>
+        <name>R1000</name>
+    </product>
+    <product>
+        <id>2</id>
+        <name>R2000</name>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Elbrus-16S</name>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Elbrus-8S</name>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Elbrus-8SV</name>
+    </product>
+</products>
